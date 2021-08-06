@@ -1,0 +1,5 @@
+Steps
+1. configuration database
+2. create and migrate the tables
+3. create controller, model and define each functions 
+4. ...etc...
